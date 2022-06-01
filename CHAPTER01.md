@@ -60,4 +60,7 @@ Cache is it in memory that expensive computed result and prequently referenced d
 - How handle exception in your storage?
     - Is store that spof?
 
-- How to mount that size of cache?
+- How to estimate that will use size of cache?
+
+- What is eveocation policy in your store?
+    - FIFO, LFU, etc..
